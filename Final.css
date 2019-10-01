@@ -28,3 +28,9 @@ background-color: #003366;
   margin-right: auto;
   width: 50%;
 }
+.width100 {
+  max-width: 100px;
+  height: 100px;
+  width: auto;
+  border: solid red;
+}
